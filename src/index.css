@@ -1,0 +1,43 @@
+:root {
+  --cream: #F5F0E8;
+  --cream-dark: #EDE6D6;
+  --slate: #3D4D50;
+  --slate-light: #5A6D70;
+  --slate-lighter: #8A9DA0;
+  --warm-tan: #C4956A;
+  --warm-tan-light: #D4B08C;
+  --warm-tan-dark: #9B7248;
+  --brown: #7A5C42;
+  --white: #FFFFFF;
+  --off-white: #FAFAF8;
+  --shadow: rgba(61, 77, 80, 0.12);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: var(--cream);
+  color: var(--slate);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+  font-family: 'Lato', sans-serif;
+  border: none;
+  outline: none;
+}
+
+input, textarea {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}

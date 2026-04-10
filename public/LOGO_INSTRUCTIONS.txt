@@ -1,0 +1,16 @@
+IMPORTANT — Add Your Logo
+=========================
+
+Save your Birds of a Feather logo image as:
+
+  /public/logo.png
+
+The file must be named exactly "logo.png" and placed in this "public" folder.
+
+Recommended: Export your logo at 400×300px (or larger) as a PNG with
+a transparent background so it looks great on all post templates.
+
+Once the file is in place, the logo will appear:
+  - In the app header
+  - At the top of each Instagram post (Classic Cream, Warm Feather, Nature White)
+  - In the footer area of the Deep Slate template
